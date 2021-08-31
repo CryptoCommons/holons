@@ -1,0 +1,25 @@
+{
+    "version":"0.1"
+    "name": "Crypto Commons",
+    "url" : "https://www.crypto-commons.org/",
+    "image": "https://raw.githubusercontent.com/CryptoCommons/holons/main/ccg.png",
+    "eth-address": "",
+    "xdai-address":"",
+    "paypal-address":"",
+    "keywords":"",
+    "holons" : 
+    [
+    { "id": "projects", "label": "Projects"},
+    { "id": "people", "label": "People"},
+    { "id": "locations", "label": "Locations"},
+    { "id": "values", "label": "Values"}
+    ],
+    "offers" : 
+    [
+    { "id": "research", "label": "Research positions", "value":"3"}
+    ],
+    "wants" : 
+    [
+    { "id": "zucchini", "label": "Zucchini","value":"5"}
+    ]
+}
