@@ -7,7 +7,7 @@
     "xdai-address":"",
     "paypal-address":"",
     "keywords":"",
-    "geolocation":{"lat":47.7062234,,"lon":15.8101491},
+    "geolocation":{"lat":47.7062234,"lon":15.8101491},
     "holons" : 
     [
     { "id": "gatherings", "label": "Gatherings"},
