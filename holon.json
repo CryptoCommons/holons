@@ -1,5 +1,5 @@
 {
-    "version":"0.1"
+    "version":"0.1",
     "name": "Crypto Commons",
     "url" : "https://www.crypto-commons.org/",
     "image": "https://raw.githubusercontent.com/CryptoCommons/holons/main/ccg.png",
@@ -7,8 +7,10 @@
     "xdai-address":"",
     "paypal-address":"",
     "keywords":"",
+    "geolocation":{"lat":47.7062234,,"lon":15.8101491},
     "holons" : 
     [
+    { "id": "gatherings", "label": "Gatherings"},
     { "id": "projects", "label": "Projects"},
     { "id": "people", "label": "People"},
     { "id": "locations", "label": "Locations"},
